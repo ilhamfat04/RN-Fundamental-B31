@@ -4,8 +4,8 @@ import { View } from "react-native";
 
 export default function content() {
   return (
-    <View style={styles.container}>
-      <StatusBar style="auto" />
+    <View>
+      <StatusBar />
       {/* Code Here */}
     </View>
   );
