@@ -2,13 +2,15 @@ import { StatusBar } from "expo-status-bar";
 import React from "react";
 import { View } from "react-native";
 
-//Import Screen
+export default function EmbedExpression() {
+  // Create Function Here
 
-export default function App() {
+  // Create a variable Here
+
   return (
     <View>
       <StatusBar />
-      {/* Use Component */}
+      {/* Code Here */}
     </View>
   );
 }
