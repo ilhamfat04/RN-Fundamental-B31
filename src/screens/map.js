@@ -1,8 +1,10 @@
 import { StatusBar } from "expo-status-bar";
 import React from "react";
-import { View, StyleSheet } from "react-native";
+import { View } from "react-native";
 
-export default function Form() {
+export default function Map() {
+  // Create Dummy Data With Array
+
   return (
     <View>
       <StatusBar />
@@ -10,5 +12,3 @@ export default function Form() {
     </View>
   );
 }
-
-// Create Variable for CSS
