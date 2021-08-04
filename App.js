@@ -1,14 +1,20 @@
-import { StatusBar } from "expo-status-bar";
 import React from "react";
-import { View } from "react-native";
+// Import 'NativeBaseProvider' component
+import { NativeBaseProvider, extendTheme } from "native-base";
 
-//Import Screen
+// Import font with Expo
+
+// Import Container
 
 export default function App() {
+  // Load Font with Expo
+
+  // Setup Font
+
+  // Setup Theme
+
+  // Configuration Native Base Custom Theme
   return (
-    <View>
-      <StatusBar />
-      {/* Use Component */}
-    </View>
+    // Setup Provider
   );
 }
