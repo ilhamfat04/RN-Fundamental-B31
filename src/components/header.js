@@ -1,11 +1,12 @@
 import { StatusBar } from "expo-status-bar";
 import React from "react";
-import { View } from "react-native";
+import { View, Text } from "react-native";
 
-export default function header() {
+export default function Header() {
   return (
     <View>
       {/* Code Here */}
+      <Text>This is Header</Text>
     </View>
   );
 }
