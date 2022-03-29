@@ -57,7 +57,8 @@ const style = StyleSheet.create({
     height: 45,
     borderWidth: 1,
     marginBottom: 15,
-    borderRadius: 5
+    borderRadius: 5,
+    paddingLeft: 5
   },
   textStyle: {
     color: "#e74c3c",
